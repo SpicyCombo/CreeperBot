@@ -134,4 +134,5 @@ client.on("message", (message) => {
     }
 });
  
-client.login("NzgwNTc0Nzg1MzIyMDkwNTM3.X7xE6w.Los4604Dpc0w3stbPC558qUYSaY"); //Set your bot's token here
+client.login("get-your-token-from-discord"); //Set your bot's token here - P.S. I forgot to remove the bot's token, so now they reset the whole shit. Ahh
+
