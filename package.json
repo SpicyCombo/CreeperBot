@@ -1,0 +1,17 @@
+{
+  "name": "creeper-bot",
+  "version": "1.0.0",
+  "description": "SpicyCombo's first \"creeper\" bot, a bot based on a Minecraft Parody song called \"Revenge\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "CreeperDiscord"
+  ],
+  "author": "SpicyCombo",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
