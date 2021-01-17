@@ -9,7 +9,7 @@ const config = {
     "logshutdown": "Creeper bot has now been shutdown.",
 
     // Place where you put your really top secret token.
-    "token": "NzgwNTc0Nzg1MzIyMDkwNTM3.X7xE6w.YpKlnLJS08kGTkgxLVqlfhNjZJk",
+    "token": "get-your-token-from-discord",
 
     // Prefix of the bot
     "prefix": "c!",
